@@ -1,0 +1,12 @@
+{
+  "name": "RavenTrek Nasdara Bunker Decoder",
+  "short_name": "Nasdara Decoder",
+  "description": "Offline dekodér signálů pro DayZ Nasdara.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#15170f",
+  "theme_color": "#15170f",
+  "icons": []
+}
